@@ -1,0 +1,4 @@
+- removed unwanted files
+- initial files
+- dell_cmd.js
+- Initial commit
