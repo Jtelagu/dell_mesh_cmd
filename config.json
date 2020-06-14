@@ -1,0 +1,18 @@
+{
+  "name": "dell_mesh_cmd",
+  "shortName": "dell_cmd",
+  "version": "0.0.1",
+  "author": "Jeethendra Telagu",
+  "description": "A plugin for preboot communication with client",
+  "hasAdminPanel": false,
+  "homepage": "https://github.com/Jtelagu/dell_mesh_cmd",
+  "changelogUrl": "https://github.com/Jtelagu/dell_mesh_cmd/blob/master/changelog.md",
+  "configUrl": "https://github.com/Jtelagu/dell_mesh_cmd/blob/master/cconfig.json",
+  "downloadUrl": "https://github.com/jtelagu/dell_mesh_cmd/archive/master.zip",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Jtelagu/dell_mesh_cmd.git"
+  },
+  "versionHistoryUrl": "https://api.github.com/repos/jtelagu/dell_mesh_cmd/tags",
+  "meshCentralCompat": ""
+}
