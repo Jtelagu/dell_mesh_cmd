@@ -1,3 +1,0 @@
-C:\Users\j_telagu\source\repos\serial\dell_mesh_cmd\NodejsConsoleApp1\NodejsConsoleApp1\obj\Debug\NodejsConsoleApp1.njsprojAssemblyReference.cache
-C:\Users\j_telagu\source\repos\serial\dell_mesh_cmd\NodejsConsoleApp1\NodejsConsoleApp1\obj\Debug\NodejsConsoleApp1.njsproj.CoreCompileInputs.cache
-C:\Users\j_telagu\source\repos\serial\dell_mesh_cmd\NodejsConsoleApp1\NodejsConsoleApp1\bin\Microsoft.NodejsTools.WebRole.dll
